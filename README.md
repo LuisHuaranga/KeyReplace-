@@ -6,3 +6,6 @@ Para instalar la librería `pynput`, utiliza el siguiente comando en tu terminal
 
 ```bash
 pip install pynput
+
+```bash
+pip install pyperclip
