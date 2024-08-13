@@ -1,11 +1,13 @@
-### Requisitos
+## Requisitos:
 
 #### 1. Instalar `pynput`
 
-Para instalar la librería `pynput`, utiliza el siguiente comando en tu terminal o consola:
-
 ```bash
 pip install pynput
+```
+#### 2. Instalar `pyperclip`
 
 ```bash
 pip install pyperclip
+```
+
