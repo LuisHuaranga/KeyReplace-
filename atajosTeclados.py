@@ -1,7 +1,7 @@
 from pynput import keyboard
 import pyperclip  # Librería para manejar el portapapeles
 
-programa = "CDCB102"
+programa = "CDCB10g2"
 imagen = f"""
 _____________________$$$
 ____________________$___$
